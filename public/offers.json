@@ -1,0 +1,24 @@
+{
+    "offers": [
+        {
+            "id": 1,
+            "image_url": "/offer1.png",
+            "description": "Get 20% off on all skincare products!"
+        },
+        {
+            "id": 2,
+            "image_url": "/offer2.png",
+            "description": "Buy 1 Get 1 Free on selected items!"
+        },
+        {
+            "id": 3,
+            "image_url": "/offer3.png",
+            "description": "Flat 30% off on your first order!"
+        },
+        {
+            "id": 4,
+            "image_url": "/offer4.jpeg",
+            "description": "Exclusive 15% off for new users!"
+        }
+    ]
+}
