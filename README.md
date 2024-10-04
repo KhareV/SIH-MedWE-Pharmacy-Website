@@ -1,5 +1,18 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+![Alt text for screenshot](l1.png)
+![Alt text for screenshot](l2.png)
+![Alt text for screenshot](l3.png)
+![Alt text for screenshot](l4.png)
+![Alt text for screenshot](l5.png)
+![Alt text for screenshot](l6.png)
+![Alt text for screenshot](l7.png)
+![Alt text for screenshot](l8.png)
+![Alt text for screenshot](l9.png)
+![Alt text for screenshot](l10.png)
+![Alt text for screenshot](l11.png)
+
+
 ## Getting Started
 
 First, run the development server:
